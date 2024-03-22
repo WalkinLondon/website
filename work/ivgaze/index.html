@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <!-- Title of the Website -->
+  <meta name="description"  
+        content="Solution for In-Vehicle Gaze Estimation">
+  <meta name="keywords" content="Gaze Estimation, In-Vehicle">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>In-Vehicle Gaze Estimation</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/eye.png">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<!-- navigation in the page
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="https://keunhong.com">
+      <span class="icon">
+          <i class="fas fa-home"></i>
+      </span>
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          More Research
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="https://hypernerf.github.io">
+            HyperNeRF
+          </a>
+          <a class="navbar-item" href="https://nerfies.github.io">
+            Nerfies
+          </a>
+          <a class="navbar-item" href="https://latentfusion.github.io">
+            LatentFusion
+          </a>
+          <a class="navbar-item" href="https://photoshape.github.io">
+            PhotoShape
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+--> 
+
+
+<!-- Description of paper title, author-->
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <!-- Title -->
+          <h1 class="title is-1 publication-title"> What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation, CVPR24</h1>
+
+          <!-- Author-->
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://yihua.zone">Yihua Cheng</a><sup>1</sup>,
+              Yaning Zhu<sup>4</sup>,
+              Zongji Wang<sup>3</sup>,
+              Hongquan Hao<sup>2</sup>, 
+              Yongwei Liu<sup>2</sup>,<p></p>
+              Shiqing Cheng<sup>2</sup>,
+              Xi Wang<sup>2</sup>,
+              <a href="https://hyungjinchang.wordpress.com/">Hyung Jin Chang</a><sup>1</sup> 
+            </span>
+            
+          </div>
+
+          <!-- Affinition-->
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup><a href="https://www.birmingham.ac.uk/"> University of Birmingham</a>,
+            <sup>2</sup>ClamCar,
+            <sup>3</sup>Chinese Academy of Sciences,
+            <sup>4</sup>HUST
+            </span>
+           
+
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/pdf/2011.12948"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2011.12948"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/google/nerfies"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a href="https://github.com/google/nerfies/releases/tag/0.1"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>Data</span>
+                  </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Abstract-->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img src="./static/images/teaser.png"
+      class="interpolation-image"
+      alt="Interpolate start reference image."/>
+    </div>
+
+
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            In this paper, we present <b>three novel elements </b>to advance vision-based in-vehicle gaze research.
+          </p>
+          <p>
+            <b>1. Dataset.</b> we introduce IVGaze, a pioneering dataset capturing in-vehicle gaze, compiled from 125 individuals and covering a large range of gaze and head poses within vehicles. 
+            Conventional gaze collection systems are inadequate for in-vehicle use. In this dataset, we propose a new vision-based solution for in-vehicle gaze collection, introducing a refined gaze target calibration method to tackle annotation challenges.
+          </p>
+
+          <p>
+            <b>2. Gaze Estimation Method.</b> Our research focuses on in-vehicle gaze estimation leveraging the IVGaze. Images of in-vehicle faces often suffer from low resolution, prompting our introduction of a gaze pyramid transformer that harnesses transformer-based multilevel features integration. Expanding upon this, we introduce the dual-stream gaze pyramid transformer (GazeDPTR). Employing perspective transformation, we rotate virtual cameras to normalize images, utilizing camera pose to merge normalized and original images for accurate gaze estimation. GazeDPTR showcases state-of-the-art performance on the IVGaze dataset.
+          </p>
+          <p>
+            <b>3. Extensive Application.</b> We explore a novel strategy for gaze zone classification by extending the GazeDPTR. 
+            A foundational tri-plane and project gaze onto these planes are newly defined. Leveraging both positional features from the projection points and visual attributes from images, we achieve superior performance compared to relying solely on visual features, thereby substantiating the advantage of gaze estimation.
+          </p>
+        </div>
+      </div>
+    </div>
+    </div>
+</section>
+    <!--/ Abstract. -->
+
+    <!-- Paper video. -->
+  <section class="section">
+    <div class="container is-max-desktop">
+    <div class="column is-full-width"> 
+        <h2 class="title is-3">IVGaze Dataset</h2>
+        <h3 class="title is-4">Data Collection System</h3>
+        <div class="content has-text-justified">
+        <p>
+          We introduce an in-vehicle vision-based gaze collection system. 
+          This system utilizes an infrared camera to capture human faces and is calibrated with a depth camera. 
+          Gaze targets are represented by red points on stickers affixed within the vehicle.
+        </p>
+        <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
+          <source src="./static/videos/03_datacollection.mp4"
+                  type="video/mp4">
+        </video>
+      </div>
+       
+      <h3 class="title is-4">Data Statistics</h3>
+      <div class="content has-text-justified">
+      We collect <b> 44,795 images from 125 subjects</b>. The horizontal gaze is from -50<sup>&deg</sup> to 90<sup>&deg</sup>, and the vertical gaze is from -40<sup>&deg</sup> to 40<sup>&deg</sup>.
+        <img src="./static/images/03_dataset.png"
+        class="interpolation-image"
+        alt="Interpolate start reference image."/>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <!-- Method-->
+  <section class="section">
+    <div class="container is-max-desktop">
+    <div class="column is-full-width"> 
+        <h2 class="title is-3">Dual-Stream Gaze Pyramid Transformer</h2>
+        <div class="content has-text-justified">
+        <h3 class="title is-4">Network Architecture</h3>
+        <p>
+          We propose a <b>gaze pyramid transformer (GazePTR)</b> that utilizes a transformer to integrate multilevel features. 
+          Expanding upon this, we propose a <b>dual-stream gaze pyramid transformer (GazeDPTR)</b>. 
+          We rotate virtual cameras via perspective transformation to normalize images, and leverage camera pose to merge normalized and original images.
+          we extend GazeDPTR for the downstream gaze zone classification task with a foundational tri-plane. 
+        </p>
+        <img src="./static/images/02_method.png"
+        class="interpolation-image"
+        alt="Interpolate start reference image."/>
+      </div>
+
+      <div class="content has-text-justified">
+        <h3 class="title is-4">Quantitative Comparison</h3>
+        <p>
+        We evaluate our method in IVGaze dataset. Our work is built based on <a href="https://ieeexplore.ieee.org/abstract/document/9956687"> GazeTR</a>. We define a new metric, <b> Average Precision (AP)</b>. 
+        The AP of <i>&lt;k<sup>&deg;</sup></i> means an estimation is considered correct if the angular error is lower than k<sup>&deg</sup>. 
+      </p>
+        <img src="./static/images/04_result.png"
+        class="interpolation-image"
+        alt="Interpolate start reference image."/>
+      </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3">Gaze Estmation in Vehicles</h2>
+    <div class="columns is-centered">
+
+      <!-- Visual Effects. -->
+      <div class="column">
+        <div class="content">
+          
+          
+          <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
+            <source src="./static/videos/01_Girl.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+      </div>
+      <!--/ Visual Effects. -->
+
+      <!-- Matting. -->
+      <div class="column">
+        <div class="columns is-centered">
+          <div class="column content">
+           
+            <video id="matting-video" controls playsinline height="100%">
+              <source src="./static/videos/02_Boy.mp4"
+                      type="video/mp4">
+            </video>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    <!--/ Matting. -->
+
+  </div>
+</section>
+
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@InProceedings{cheng2024ivgaze,
+  author    = {Yihua Cheng, Yaning Zhu, Zongji Wang, Hongquan Hao, Yongwei Liu, Shiqing Cheng, Xi Wang, Hyung Jin Chang},
+  title     = {What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation},
+  booktitle    = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2024},
+}</code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+  
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            We appreciate  Keunhong et.al for freely sharing the website code. Please find the source code from  <a href="https://github.com/nerfies/nerfies.github.io"> here </a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
