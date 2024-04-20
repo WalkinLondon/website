@@ -16,6 +16,7 @@ I obtained Ph.D. degree in Computer Science from **Beihang University** in 2023.
 
 News
 =====
+ **\[2024-04\]**: 🔥 ***"Appearance-Based Gaze Estimation with Deep Learning: A Review and Benchmark"*** **is accepted to <font color=red>TPAMI</font>.**     
  **\[2024-03\]**: 🔥 ***"What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation"*** **is accepted to <font color=red>CVPR2024</font>, Please find the project [here](work/ivgaze).**     
  **\[2024-03\]**: 🔥 ***<font color=red>Call for Paper, DDL March 15 ！</font>*** **We are organizing** ***[GAZE](https://gazeworkshop.github.io/2024/)*** **Workshop at <font color=red>CVPR 2024</font>.**   
 **\[2023-10\]:** One paper is accepted to **WACV 2024**.   

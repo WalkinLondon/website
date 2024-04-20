@@ -13,10 +13,11 @@ author_profile: true
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='../../images/publications/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI2024</div><img src='../../images/publications/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<font size=5> Appearance-Based Gaze Estimation with Deep Learning: A Review and Benchmark </font>**  
 Yihua Cheng, Haofei Wang, Yiwei Bao, Feng Lu  
+IEEE Transactions on Pattern Analysis and Machine Intelligence
 <a href='https://arxiv.org/abs/2104.12668' target='_blank'><button class="button-16" role="button"><b> Paper</b></button></a> 
 <a href='https://phi-ai.buaa.edu.cn/Gazehub' target='_blank'><button class="button-16" role="button"><b> Project</b></button></a>
 
