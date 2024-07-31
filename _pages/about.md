@@ -16,6 +16,7 @@ I obtained Ph.D. degree in Computer Science from **Beihang University** in 2023.
 
 News
 =====
+ **\[2024-07\]**: 🔥 ***"TextGaze: Gaze-Controllable Face Generation with Natural Language"*** **is accepted to <font color=red>ACM MM24</font>.**   
  **\[2024-07\]**: 🔥 ***"NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model"*** **is accepted to <font color=red>ECCV24</font>.**   
  **\[2024-04\]**: 🔥 ***"Appearance-Based Gaze Estimation with Deep Learning: A Review and Benchmark"*** **is accepted to <font color=red>TPAMI</font>.**     
  **\[2024-03\]**: "What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation" is accepted to **CVPR2024**, Please find the project **[Here](work/ivgaze)**.    
