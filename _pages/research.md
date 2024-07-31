@@ -1,14 +1,8 @@
 ---
 layout: archive
-title: "Research"
+title: "Reserach"
 permalink: /research/
 author_profile: true
 ---
 
-My research focuses on computer vision with a specialized focus on human aspects. My research topic can be succinctly summarized as **<font color=red>Human +</font>**, containing various sub-domains such as
-***Human + Pose Estimation***, ***Human + AI Generation***, ***Human + Multimodal Learning***. 
-Specific areas of interest within these topics include ***eye gaze estimation, hand pose estimation, multi-modal face/hand generation, few-shot learning, virtual/augmented reality, etc***. 
-
-
-
-<font color=red> </font>
+I am working on various artificial intelligence topics, including computer vision, human-computer interaction, and intelligent vehicles. My long-term research interests focus on **human understanding and generation (HuG)**, leveraging computer vision and deep learning approaches to track human motion, analyse human behaviours, and generate digital humans. My ultimate goal is to enable machines to understand humans and leverage AI to transform human lifestyles.
