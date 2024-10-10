@@ -20,7 +20,7 @@ Education
 
 Professional Activities
 ======
-* **Organizer**, GAZE Workshop, CVPR2024
+* **Organizer**, GAZE Workshop (CVPR2024)
 * **Outstanding Reviewer**, ICCV2023
 * **Reviewer**, CVPR/ICCV/ECCV, IMWUT, RSS, ACM MM, AAAI
 * **Reviewer**, Nature Human Behaviour
