@@ -33,6 +33,12 @@ The British Machine Vision Conference (BMVC) <font color='red'> <b> Oral </b> </
 
 # All Papers 
 ---
+1. Yihua Cheng, Hengfei Wang, Zhongqun Zhang, Yang Yue, Boeun Kim, Feng Lu, Hyung Jin Chang, *3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation*, Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+
+1. Yizhou Huang, Yihua Cheng, Kezhi Wang, *Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM*, Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+
+1. Boeun Kim, Hea In Jeong, JungHoon Sung, Yihua Cheng, Jeongmin Lee, Ju Yong Chang, Sang-Il Choi, Younggeun Choi, Saim Shin, Jungho Kim, Hyung Jin Chang, *PersonaBooth: Personalized Text-to-Motion Generation*, Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+
 1. Zhongqun Zhang, Yihua Cheng, Eduardo Pérez-Pellitero, Yiren Zhou, Jiankang Deng, Hyung Jin Chang, Jifei Song, *Single-view Image to Novel-view Generation for Hand-Object Interactions*, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025
 
 1. Yang Yue, Yihua Cheng, Celine Marquet, Chenguang Xiao, Jingjing Guo, Shu Li, Shan He, *Meta-learning enables complex cluster-specific few-shot binding affinity prediction for protein-protein interactions*, Journal of Chemical Information and Modeling, 2025

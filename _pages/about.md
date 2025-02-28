@@ -20,10 +20,12 @@ Yihua Cheng obtained Ph.D. degree in Computer Science from Beihang University in
 
 News
 =====
-**\[2025-02\]**: 🔥 Introduce our new work *"3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation"*, Please find the project **[Here](work/cross3d)**.   
-**\[2025-01\]**: 🔥 *"Single-view Image to Novel-view Generation for Hand-Object Interactions"* is accepted to **AAAI 2025**.  
-**\[2025-01\]**: 🔥 *"Meta-learning enables complex cluster-specific few-shot binding affinity prediction for protein-protein interactions"* is accepted to **JCML**.  
-**\[2024-10\]**: 🔥 **<font color=red>Call for Paper, DDL November 22!</font> We are organizing Human-Autonomous Vehicle Interaction Workshop [(HAVI)](https://haviworkshop.github.io/2024/) at WACV 2025**.   
+**\[2025-02\]**: 🔥 *"3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation"* is accepted to **CVPR 2025**, Please find the project **[Here](work/gaze322)**.  
+**\[2025-02\]**: 🔥 *"PersonaBooth: Personalized Text-to-Motion Generation"* is accepted to **CVPR 2025**.  
+**\[2025-02\]**: 🔥 *"Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM"* is accepted to **CVPR 2025**.  
+**\[2025-01\]**: 🔥 *"Single-view Image to Novel-view Generation for Hand-Object Interactions"* is accepted to **AAAI 2025**.    
+**\[2025-01\]**:  *"Meta-learning enables complex cluster-specific few-shot binding affinity prediction for protein-protein interactions"* is accepted to **JCML**.  
+**\[2024-10\]**:  **<font color=red>Call for Paper, DDL November 22!</font> We are organizing Human-Autonomous Vehicle Interaction Workshop [(HAVI)](https://haviworkshop.github.io/2024/) at WACV 2025**.   
 **\[2024-10\]**: I am invited by Prof. Yoichi Sato to give a talk titled "Eye Tracking and Generation: Challenges and Future" at the University of Tokyo.   
 **\[2024-09\]**: "Integration of molecular coarse-grained model into geometric representation learning framework for protein-protein complex property prediction" is accepted to **Nature Communication.**  
 **\[2024-07\]**: "TextGaze: Gaze-Controllable Face Generation with Natural Language" is accepted to **ACM MM24.**   
