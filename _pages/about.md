@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yihua Cheng is a Research Fellow at the University of Birmingham.
+Yihua Cheng is a Senior Research Fellow at the University of Birmingham.
 He is working on various research topics including computer vision, human-computer interaction and autonomous driving.
 His research focuses on understanding human behaviour and human-object interaction, generating realistic digital humans, and applying these advancements across various domains.
 
