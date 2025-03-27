@@ -28,7 +28,7 @@ News
 **\[2025-01\]**:  "Meta-learning enables complex cluster-specific few-shot binding affinity prediction for protein-protein interactions" is accepted to **JCML**.  
 **\[2024-10\]**:  **<font color=red>Call for Paper, DDL November 22!</font> We are organizing Human-Autonomous Vehicle Interaction Workshop [(HAVI)](https://haviworkshop.github.io/2024/) at WACV 2025**.   
 **\[2024-10\]**: I am invited by Prof. Yoichi Sato to give a talk titled "Eye Tracking and Generation: Challenges and Future" at the University of Tokyo.   
-**\[2024-09\]**: "Integration of molecular coarse-grained model into geometric representation learning framework for protein-protein complex property prediction" is accepted to **Nature Communication <font color=red>(Featured Artical)</font>**.   
+**\[2024-09\]**: "Integration of molecular coarse-grained model into geometric representation learning framework for protein-protein complex property prediction" is accepted to **Nature Communication <font color=red>(Featured Article)</font>**.   
 **\[2024-07\]**: "TextGaze: Gaze-Controllable Face Generation with Natural Language" is accepted to **ACM MM24.**   
 **\[2024-07\]**: "NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model" is accepted to **ECCV24** **<font color=red>(Oral Presentation)</font>.**   
 **\[2024-04\]**: "Appearance-Based Gaze Estimation with Deep Learning: A Review and Benchmark" is accepted to **TPAMI**.     

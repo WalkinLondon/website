@@ -47,7 +47,7 @@ The British Machine Vision Conference (BMVC) <font color='red'> <b> Oral </b> </
 
 1. Yang Yue, Yihua Cheng, Celine Marquet, Chenguang Xiao, Jingjing Guo, Shu Li, Shan He, *Meta-learning enables complex cluster-specific few-shot binding affinity prediction for protein-protein interactions*, Journal of Chemical Information and Modeling, 2025
 
-1. Yang Yue, Shu Li, Yihua Cheng, Zexuan Zhu, Lie Wang, Tingjun Hou, Shan He, *Integration of molecular coarse-grained model into geometric representation learning framework for protein-protein complex property prediction*, Nature Communication, 2024 **<font color=red>(Featured Artical)</font>**  
+1. Yang Yue, Shu Li, Yihua Cheng, Zexuan Zhu, Lie Wang, Tingjun Hou, Shan He, *Integration of molecular coarse-grained model into geometric representation learning framework for protein-protein complex property prediction*, Nature Communication, 2024 **<font color=red>(Featured Article)</font>**  
 
 1. Hengfei Wang, Zhongqun Zhang, Yihua Cheng<sup><i class="fa fa-envelope"></i></sup>, Hyung Jin Chang, *TextGaze: Gaze-Controllable Face Generation with Natural Language*, ACM International Conference on Multimedia (ACM MM), 2024
 
