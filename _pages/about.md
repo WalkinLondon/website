@@ -37,6 +37,6 @@ News
 **\[2024-03\]**: "What Do You See in Vehicle? Comprehensive Vision Solution for In-Vehicle Gaze Estimation" is accepted to **CVPR2024**, Please find the project **[Here](work/ivgaze)**.    
 **\[2024-03\]**: **<font color=red>Call for Paper, DDL March 15 !</font>** We are organizing ***[GAZE](https://gazeworkshop.github.io/2024/)*** Workshop at **CVPR 2024**.
 **\[2023-10\]:** One paper is accepted to **WACV 2024**.   
-**\[2023-08\]:** One paper is accepted to **BMVC 2023 <font color=red>(Oral Presentation)</font>**. 
+**\[2023-08\]:** One paper is accepted to **BMVC 2023 <font color=red>(Oral Presentation)</font>**.   
 **\[2023-07\]:** *"DVGaze: Dual-View Gaze Estimation"* is accepted to **ICCV 2023**.  
 **\[2023-02\]:** I jointed University of Birmingham as a Postdoc.
