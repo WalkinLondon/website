@@ -20,7 +20,7 @@ Yihua Cheng obtained Ph.D. degree in Computer Science from Beihang University in
 
 News
 =====
-**\[2025-04\]**: 🔥 I am invited to give a talk titled "Visual Learning Towards Human Understanding, Generation, and Interaction" at the University of Southampton. It is a pleasure to meet members of the VLC group during my visit.
+**\[2025-04\]**: 🔥 I am invited to give a talk titled "Visual Learning Towards Human Understanding, Generation, and Interaction" at the University of Southampton. It is a pleasure to meet members of the VLC group during my visit.  
 **\[2025-04\]**: 🔥 I am invited by the Chen Institute to deliver a keynote talk entitled "Introduction to Mobile Eye Tracking Algorithms".
 **\[2025-03\]**: 🔥 *Multi-Hypothesis 3D Hand Mesh Recovering from a Single Blurry Image* is accepted to **ICME 2025**.  
 **\[2025-02\]**: 🔥 *"3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation"* is accepted to **CVPR 2025**, Please find the project **[Here](work/gaze322)**.  
