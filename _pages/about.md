@@ -20,10 +20,12 @@ Yihua Cheng obtained Ph.D. degree in Computer Science from Beihang University in
 
 News
 =====
+**\[2025-04\]**: 🔥 I am invited to give a talk titled "Visual Learning Towards Human Understanding, Generation, and Interaction" at the University of Southampton. It is a pleasure to meet members of the VLC group during my visit.
+**\[2025-04\]**: 🔥 I am invited by the Chen Institute to deliver a keynote talk entitled "Introduction to Mobile Eye Tracking Algorithms".
 **\[2025-03\]**: 🔥 *Multi-Hypothesis 3D Hand Mesh Recovering from a Single Blurry Image* is accepted to **ICME 2025**.  
 **\[2025-02\]**: 🔥 *"3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation"* is accepted to **CVPR 2025**, Please find the project **[Here](work/gaze322)**.  
-**\[2025-02\]**: 🔥 *"PersonaBooth: Personalized Text-to-Motion Generation"* is accepted to **CVPR 2025**.  
-**\[2025-02\]**: 🔥 *"Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM"* is accepted to **CVPR 2025**.  
+**\[2025-02\]**: *"PersonaBooth: Personalized Text-to-Motion Generation"* is accepted to **CVPR 2025**.  
+**\[2025-02\]**: *"Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM"* is accepted to **CVPR 2025**.  
 **\[2025-01\]**:  "Single-view Image to Novel-view Generation for Hand-Object Interactions" is accepted to **AAAI 2025**.    
 **\[2025-01\]**:  "Meta-learning enables complex cluster-specific few-shot binding affinity prediction for protein-protein interactions" is accepted to **JCML**.  
 **\[2024-10\]**:  **<font color=red>Call for Paper, DDL November 22!</font> We are organizing Human-Autonomous Vehicle Interaction Workshop [(HAVI)](https://haviworkshop.github.io/2024/) at WACV 2025**.   
