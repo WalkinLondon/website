@@ -20,10 +20,14 @@ Yihua Cheng obtained Ph.D. degree in Computer Science from Beihang University in
 
 News
 =====
-**\[2025-04\]**: 🔥 I am invited to give a talk titled "Visual Learning Towards Human Understanding, Generation, and Interaction" at the University of Southampton. It is a pleasure to meet members of the VLC group during my visit！  
-**\[2025-04\]**: 🔥 I am invited by the Chen Institute to deliver a keynote talk entitled "Introduction to Mobile Eye Tracking Algorithms".  
-**\[2025-03\]**: 🔥 *Multi-Hypothesis 3D Hand Mesh Recovering from a Single Blurry Image* is accepted to **ICME 2025**.  
-**\[2025-02\]**: 🔥 *"3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation"* is accepted to **CVPR 2025**, Please find the project **[Here](work/gaze322)**.  
+**\[2025-08\]**: 🔥 *'Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation'* is accepted to **ACM MM 2025**.  
+**\[2025-07\]**: 🔥 *'Efficient driving behavior narration and reasoning on edge device using large language models'* is accepted to **IEEE Transactions on Vehicular Technology**.  
+**\[2025-05\]**: 🔥 I am glad to be invited to give a talk at **Tsinghua University**!  
+**\[2025-05\]**: 🔥 *'Behavior-aware Knowledge-embedded Model for Driver Attention Prediction'* is accepted to **IEEE Transactions on Circuits and Systems for Video Technology**.  
+**\[2025-04\]**: I am invited to give a talk titled "Visual Learning Towards Human Understanding, Generation, and Interaction" at the **University of Southampton**. It is a pleasure to meet members of the VLC group during my visit！    
+**\[2025-04\]**: I am invited by the **Chen Institute** to deliver a keynote talk entitled "Introduction to Mobile Eye Tracking Algorithms".  
+**\[2025-03\]**: *Multi-Hypothesis 3D Hand Mesh Recovering from a Single Blurry Image* is accepted to **ICME 2025**.  
+**\[2025-02\]**: *"3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation"* is accepted to **CVPR 2025**, Please find the project **[Here](work/gaze322)**.  
 **\[2025-02\]**: *"PersonaBooth: Personalized Text-to-Motion Generation"* is accepted to **CVPR 2025**.  
 **\[2025-02\]**: *"Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM"* is accepted to **CVPR 2025**.  
 **\[2025-01\]**:  "Single-view Image to Novel-view Generation for Hand-Object Interactions" is accepted to **AAAI 2025**.    

@@ -34,6 +34,11 @@ The British Machine Vision Conference (BMVC) <font color='red'> <b> Oral </b> </
 # All Papers 
 ---
 
+1. YoungChan Choi, HengFei Wang, Yihua Cheng, Boeun Kim, Hyung Jin Chang, YoungGeun Choi, Sang-Il Choi, *Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation*, ACM Multimeida (ACM MM), 2025
+
+1. Yizhou Huang, Yihua Cheng, Kezhi Wang, *Efficient driving behavior narration and reasoning on edge device using large language models*, IEEE Transactions on Vehicular Technology, 2025.
+
+1. Yuchen Zhou, Chao Gou, Zipeng Guo, Yihua Cheng, Hyung Jin Chang, *Behavior-aware Knowledge-embedded Model for Driver Attention Prediction*, IEEE Transactions on Circuits and Systems for Video Technology, 2025
 
 1. Yuming Chen, Zhongqun Zhang, Rongyu Chen, Yihua Cheng<sup><i class="fa fa-envelope"></i></sup>, Hyung Jin Chang, *Multi-Hypothesis 3D Hand Mesh Recovering from a Single Blurry Image*, IEEE International Conference on Multimedia & Expo (ICME), 2025
 
