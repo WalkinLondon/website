@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* **[Feb 2023 - Present]** PostDoc in the University of Birmingham
+* **[July 2026 - Present]** Tenure-Track Professor in the Beijing Institute of Technology
+
+* **[Feb 2023 - July 2026]** PostDoc in the University of Birmingham
 
 Education
 ======

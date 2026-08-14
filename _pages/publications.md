@@ -33,6 +33,11 @@ The British Machine Vision Conference (BMVC) <font color='red'> <b> Oral </b> </
 
 # All Papers 
 ---
+1. Yizhou Huang, Gengze Jiang, Yihua Cheng, Kezhi Wang, *FoSS: Modeling Long Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier State Space Integration*, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+
+1. Hengfei Wang, Zhongqun Zhang, Yihua Cheng<sup><i class="fa fa-envelope"></i></sup>, Hyung Jin Chang, *RTGaze: Real-Time 3D-Aware Gaze Redirection from a Single Image*, AAAI Conference on Artificial Intelligence (AAAI), 2026
+
+1. Zhuo Chen, Zhongqun Zhang, Yihua Cheng, Aleš Leonardis, Hyung Jin Chang, *Force-Aware 3D Contact Modeling for Stable Grasp Generation*, AAAI Conference on Artificial Intelligence (AAAI), 2026
 
 1. YoungChan Choi, HengFei Wang, Yihua Cheng, Boeun Kim, Hyung Jin Chang, YoungGeun Choi, Sang-Il Choi, *Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation*, ACM Multimeida (ACM MM), 2025
 

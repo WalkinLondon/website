@@ -7,23 +7,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yihua Cheng is a Senior Research Fellow at the University of Birmingham.
+Yihua Cheng is a Tenure-Track Professor at the School of Computer Science, [Beijing Institute of Technology](https://www.bit.edu.cn/index.htm). 
 He is working on various research topics including computer vision, human-computer interaction and autonomous driving.
 His research focuses on understanding human behaviour and human-object interaction, generating realistic digital humans, and applying these advancements across various domains.
 
 Yihua Cheng has published high-quality papers in top-tier venues, including TPAMI, TIP, Nature Communications, CVPR, ICCV, ECCV, AAAI, and ACM MM. He serves as a reviewer for high-level journals such as TPAMI, TIP, and Nature Human Behaviour, and was recognized as an *Outstanding Reviewer* for ICCV 2023.
 Yihua is the organizer of the Gaze Workshop at CVPR and the Autonomous Driving Workshop at WACV. He leads a Ramsay Funding project and collaborates with industry partners in autonomous driving.
 
-Yihua Cheng obtained Ph.D. degree in Computer Science from Beihang University in December 2022. His Ph.D. supervisor was [Prof. Feng Lu](https://scholar.google.com.hk/citations?user=9ggbm0QAAAAJ&hl=en). He received B.S. degree of Computer Science from Beijing University of Posts and Telecommunications in 2017.
+Yihua Cheng was a Senior Research Fellow at the University of Birmingham. He obtained Ph.D. degree in Computer Science from Beihang University in December 2022. His Ph.D. supervisor was [Prof. Feng Lu](https://scholar.google.com.hk/citations?user=9ggbm0QAAAAJ&hl=en). He received B.S. degree of Computer Science from Beijing University of Posts and Telecommunications in 2017.
 
 ***Please feel free to contact me for any academic or bussiness collobration.***
 
+***If you are interested in <font color=red>Master’s, Ph.D., or internship</font> opportunities, please feel free to contact me and attach your CV.***
+
 News
 =====
-**\[2025-08\]**: 🔥 *'Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation'* is accepted to **ACM MM 2025**.  
-**\[2025-07\]**: 🔥 *'Efficient driving behavior narration and reasoning on edge device using large language models'* is accepted to **IEEE Transactions on Vehicular Technology**.  
-**\[2025-05\]**: 🔥 I am glad to be invited to give a talk at **Tsinghua University**!  
-**\[2025-05\]**: 🔥 *'Behavior-aware Knowledge-embedded Model for Driver Attention Prediction'* is accepted to **IEEE Transactions on Circuits and Systems for Video Technology**.  
+**\[2026-07\]**: 🔥I joined the School of Computer Science at Beijing Institute of Technology as a Tenure-Track Professor, beginning an exciting new chapter in my academic career.  
+**\[2026-06\]**: 🔥I organized the 7th International Workshop on Eye and Gaze in Computer Vision (GAZE 2026) at CVPR 2026. Thanks to all the participants for making the workshop a success.  
+**\[2026-02\]**: 🔥*'FoSS: Modeling Long Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier State Space Integration'* is accepted to **CVPR 2026**.  
+**\[2025-11\]**: 🔥*'Force-aware 3D contact modeling for stable grasp generation' is accpeted to **AAAI 2026**.  
+**\[2025-11\]**: 🔥*'RTGaze: Real-Time 3D-Aware Gaze Redirection from a Single Image' is accpeted to **AAAI 2026**.  
+**\[2025-08\]**: *'Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation'* is accepted to **ACM MM 2025**.  
+**\[2025-07\]**: *'Efficient driving behavior narration and reasoning on edge device using large language models'* is accepted to **IEEE Transactions on Vehicular Technology**.  
+**\[2025-05\]**:  I am glad to be invited to give a talk at **Tsinghua University**!  
+**\[2025-05\]**:  *'Behavior-aware Knowledge-embedded Model for Driver Attention Prediction'* is accepted to **IEEE Transactions on Circuits and Systems for Video Technology**.  
 **\[2025-04\]**: I am invited to give a talk titled "Visual Learning Towards Human Understanding, Generation, and Interaction" at the **University of Southampton**. It is a pleasure to meet members of the VLC group during my visit！    
 **\[2025-04\]**: I am invited by the **Chen Institute** to deliver a keynote talk entitled "Introduction to Mobile Eye Tracking Algorithms".  
 **\[2025-03\]**: *Multi-Hypothesis 3D Hand Mesh Recovering from a Single Blurry Image* is accepted to **ICME 2025**.  
