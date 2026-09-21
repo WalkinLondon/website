@@ -22,11 +22,12 @@ Yihua Cheng was a Senior Research Fellow at the University of Birmingham. He obt
 
 News
 =====
+**\[2026-09\]**: 🔥I am delighted to have been invited to serve as an **Area Chair** for **CVPR 2027**.  
 **\[2026-07\]**: 🔥I joined the School of Computer Science at Beijing Institute of Technology as a Tenure-Track Professor, beginning an exciting new chapter in my academic career.  
 **\[2026-06\]**: 🔥I organized the 7th International Workshop on Eye and Gaze in Computer Vision (GAZE 2026) at CVPR 2026. Thanks to all the participants for making the workshop a success.  
-**\[2026-02\]**: 🔥*'FoSS: Modeling Long Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier State Space Integration'* is accepted to **CVPR 2026**.  
-**\[2025-11\]**: 🔥*'Force-aware 3D contact modeling for stable grasp generation' is accpeted to **AAAI 2026**.  
-**\[2025-11\]**: 🔥*'RTGaze: Real-Time 3D-Aware Gaze Redirection from a Single Image' is accpeted to **AAAI 2026**.  
+**\[2026-02\]**: *'FoSS: Modeling Long Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier State Space Integration'* is accepted to **CVPR 2026**.  
+**\[2025-11\]**: *'Force-aware 3D contact modeling for stable grasp generation' is accpeted to **AAAI 2026**.  
+**\[2025-11\]**: *'RTGaze: Real-Time 3D-Aware Gaze Redirection from a Single Image' is accpeted to **AAAI 2026**.  
 **\[2025-08\]**: *'Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation'* is accepted to **ACM MM 2025**.  
 **\[2025-07\]**: *'Efficient driving behavior narration and reasoning on edge device using large language models'* is accepted to **IEEE Transactions on Vehicular Technology**.  
 **\[2025-05\]**:  I am glad to be invited to give a talk at **Tsinghua University**!  
