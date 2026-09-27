@@ -33,6 +33,10 @@ The British Machine Vision Conference (BMVC) <font color='red'> <b> Oral </b> </
 
 # All Papers 
 ---
+1. Zhuo Chen, Yihua Cheng<sup><i class="fa fa-envelope"></i></sup>, Ales Leonardis, Hyung Jin Chang, *VolCo: Volumetric Contact for High-Fidelity Human Grasp Generation*, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
+
+1. Shijing Wang, Yihua Cheng<sup><i class="fa fa-envelope"></i></sup>, Chaoqun Cui, Yaping Huang, David Wong, Alexandros Neophytou, Hyung Jin Chang, *Enhancing Gaze Reasoning in Vision Foundation Models for Gaze Following*, The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
+
 1. Yizhou Huang, Gengze Jiang, Yihua Cheng, Kezhi Wang, *FoSS: Modeling Long Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier State Space Integration*, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
 
 1. Hengfei Wang, Zhongqun Zhang, Yihua Cheng<sup><i class="fa fa-envelope"></i></sup>, Hyung Jin Chang, *RTGaze: Real-Time 3D-Aware Gaze Redirection from a Single Image*, AAAI Conference on Artificial Intelligence (AAAI), 2026

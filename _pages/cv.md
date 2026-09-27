@@ -22,10 +22,11 @@ Education
 
 Professional Activities
 ======
-* **Organizer**, GAZE Workshop (CVPR2024)
+* **Area Chair**, CVPR2027  
+* **Organizer**, GAZE Workshop (CVPR2024, CVPR2026)
 * **Outstanding Reviewer**, ICCV2023
 * **Reviewer**, CVPR/ICCV/ECCV, IMWUT, RSS, ACM MM, AAAI
-* **Reviewer**, Nature Human Behaviour
+* **Reviewer**, TPAMI, IJCV, Nature Human Behaviour
 * **Reviewer**, IEEE Transactions on Image Processing
 * **Reviewer**, IEEE Transactions on Multimedia
 * **Reviewer**, IEEE Transactions on Circuits and Systems for Video Technology
